@@ -1,0 +1,1 @@
+cmd_/home/kedar/kkulkar1_os2/oskernel.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/kedar/kkulkar1_os2/oskernel.ko /home/kedar/kkulkar1_os2/oskernel.o /home/kedar/kkulkar1_os2/oskernel.mod.o
